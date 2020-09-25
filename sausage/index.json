@@ -1,0 +1,166 @@
+[{"fact":{
+"title":"Presidential Debate - Kennedy, Nixon (1 of 4)",
+"primaryDate":"1960-09-26",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"a7d84abdb510bf8951d9cfd966a376c034e2eb83"},{"fact":{
+"title":"Presidential Debate - Kennedy, Nixon (2 of 4)",
+"primaryDate":"1960-10-07",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"3f45a2f62663688db406251b39885798111786ef"},{"fact":{
+"title":"Presidential Debate - Kennedy, Nixon (3 of 4)",
+"primaryDate":"1960-10-13",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"2373052863a1119f1fa84b0125b30a83c3acdd7a"},{"fact":{
+"title":"Presidential Debate - Kennedy, Nixon (4 of 4)",
+"primaryDate":"1960-10-21",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"824e6983c08d25a9f85f6053602a513defa80919"},{"fact":{
+"title":"Presidential Debate - Carter, Ford (1 of 3)",
+"primaryDate":"1976-09-23",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"3cba2e50875f5f0c7f7a9e6e37685672d8fcd8ed"},{"fact":{
+"title":"Presidential Debate - Carter, Ford (2 of 3)",
+"primaryDate":"1976-10-06",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"3d72b768b450f47d4abfd449014ffdc1c0e3e7aa"},{"fact":{
+"title":"Presidential Debate - Carter, Ford (3 of 3)",
+"primaryDate":"1976-10-22",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"2c8b6a0a931f13dc05c0650bea52f3afff021888"},{"fact":{
+"title":"Presidential Debate - Anderson, Reagan (1 of 2)",
+"primaryDate":"1980-09-21",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"ad880e255a0e08fdd65848ca8e82671c111d8bde"},{"fact":{
+"title":"Presidential Debate - Carter, Reagan (2 of 2)",
+"primaryDate":"1980-10-28",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"9e30751ff523adadb5592066b575468e4450c3f0"},{"fact":{
+"title":"Presidential Debate - Mondale, Reagan (1 of 2)",
+"primaryDate":"1984-10-07",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"e2cd8c9ee5924337b9392f39ca281bad0803ec55"},{"fact":{
+"title":"Presidential Debate - Mondale, Reagan (2 of 2)",
+"primaryDate":"1984-10-21",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"26c7d03b8c4e45de04962e934fae390fdcfbfa55"},{"fact":{
+"title":"Presidential Debate - Bush, Dukakis (1 of 2)",
+"primaryDate":"1988-09-25",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"82a902997e5bffa1cad6870192f5f7bf101fda83"},{"fact":{
+"title":"Presidential Debate - Bush, Dukakis (2 of 2)",
+"primaryDate":"1988-10-13",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"baef42807c33e445ffff8d390daa3688e58e28d3"},{"fact":{
+"title":"Presidential Debate - Bush, Clinton, Perot (1 of 3)",
+"primaryDate":"1992-10-11",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"d3d1f216049ebb7892fc344c215b82f76a447f1b"},{"fact":{
+"title":"Presidential Debate - Bush, Clinton, Perot (2 of 3)",
+"primaryDate":"1992-10-15",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"36743313453c4a27df07bedbdbd4179f32fe1d51"},{"fact":{
+"title":"Presidential Debate - Bush, Clinton, Perot (3 of 3)",
+"primaryDate":"1992-10-19",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"e724ca80410dc83b322732dc1b23ccc2a9e1833b"},{"fact":{
+"title":"Presidential Debate - Clinton, Dole (1 of 2)",
+"primaryDate":"1996-10-06",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"e5a95eaeaf324d203f81ae7d1af81adc0d081f4a"},{"fact":{
+"title":"Presidential Debate - Clinton, Dole (2 of 2)",
+"primaryDate":"1996-10-16",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"f38389599d43343739183e121c2dbb94ca494a26"},{"fact":{
+"title":"Presidential Debate - Bush, Gore (1 of 3)",
+"primaryDate":"2000-10-03",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"60b8a9ef4eefc10c982c0dcdda630db0d252fb4a"},{"fact":{
+"title":"Presidential Debate - Bush, Gore (2 of 3)",
+"primaryDate":"2000-10-11",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"41625c676c7080803f696681274f994f20be40f7"},{"fact":{
+"title":"Presidential Debate - Bush, Gore (3 of 3)",
+"primaryDate":"2000-10-17",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"451ebc7e2c29d7539a7c0f9fa0ea72da1548b058"},{"fact":{
+"title":"Presidential Debate - Bush, Kerry (1 of 3)",
+"primaryDate":"2004-09-30",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"b392ab3b58395598b19c204b5c891ab77f64dcde"},{"fact":{
+"title":"Presidential Debate - Bush, Kerry (2 of 3)",
+"primaryDate":"2004-10-08",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"6f7467678298b8be0774fba82d11c9718008b945"},{"fact":{
+"title":"Presidential Debate - Bush, Kerry (3 of 3)",
+"primaryDate":"2004-10-13",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"3310cfa9e50c51a92ed40d3d9e83262c8d81ac78"},{"fact":{
+"title":"Presidential Debate - McCain, Obama (1 of 3)",
+"primaryDate":"2008-09-26",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"b8832b672b766458f05477e6a67814e4ad71ca63"},{"fact":{
+"title":"Presidential Debate - McCain, Obama (2 of 3)",
+"primaryDate":"2008-10-07",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"b3cb5187a5ee58ff0861532b8fb2e690ede2d5fd"},{"fact":{
+"title":"Presidential Debate - McCain, Obama (3 of 3)",
+"primaryDate":"2008-10-15",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"da5abca6689379b60fe6408fa4ea7dc5250622cf"},{"fact":{
+"title":"Presidential Debate - Obama, Romney (1 of 3)",
+"primaryDate":"2012-10-03",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"ac781edbce4654f51eccac764adb33af7e1c961a"},{"fact":{
+"title":"Presidential Debate - Obama, Romney (2 of 3)",
+"primaryDate":"2012-10-16",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"81eecde31445e88d42bdf3b4bf5c4a10042da6c0"},{"fact":{
+"title":"Presidential Debate - Obama, Romney (3 of 3)",
+"primaryDate":"2012-10-22",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"401d9b612e2dfdaabf0af2a24de37ecabe742403"},{"fact":{
+"title":"Presidential Debate - Clinton, Trump (1 of 3)",
+"primaryDate":"2016-09-26",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"974717ad097d621e713bf202f79e529bfe29ae04"},{"fact":{
+"title":"Presidential Debate - Clinton, Trump (2 of 3)",
+"primaryDate":"2016-10-09",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"579854085d1834e7d60134ad7ca7808d8dd3b0b2"},{"fact":{
+"title":"Presidential Debate - Clinton, Trump (3 of 3)",
+"primaryDate":"2016-10-19",
+"primaryDateKind":"recorded",
+"kind":"video"},
+"hash":"1c46f9b01734a18abec3640630e5b56046de4719"}]

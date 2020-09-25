@@ -1,0 +1,5 @@
+rootProject.name = 'us-presidential-debates'
+
+// if you clone https://github.com/mytakedotorg/mtdo into a folder next to this one
+// and uncomment the line below, then you can livetest the `org.mytake.factset` plugin.
+includeBuild('../mtdo')
