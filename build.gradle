@@ -3,6 +3,8 @@ plugins {
 }
 
 mtdoFactset {
+	title = 'U.S. Presidential Debates'
+	id = 'us-presidential-debates'
 	video {
 		json { meta ->
 			// enforce that every fact has a title like "1 of 2"
