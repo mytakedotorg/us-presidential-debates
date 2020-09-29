@@ -6,7 +6,7 @@ This factset contains every televised United States Presidential Debate. This fa
 ## Notes
 The first Presidential Debate took place in 1960 between John Kennedy and Richard Nixon. No one agreed to do them again until 1976, between Jimmy Carter and Gerald Ford. They have taken place every 4 years since then, up to and including the most recent Presidential Debate in 2016 between Hillary Clinton and Donald Trump. 
 
-When new Presidential Debates take place, we will add them to this factset within twenty-four hours of the completion of the debate.
+When new Presidential Debates take place, we will add them to this factset within forty-eight hours of the completion of the debate.
 
 # Changelog
 All changes to this factset are categorized as either:
