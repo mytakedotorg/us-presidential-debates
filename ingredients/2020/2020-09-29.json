@@ -1,0 +1,15 @@
+{
+  "fact": {
+    "title": "Presidential Debate - Biden, Trump (1 of 3)",
+    "primaryDate": "2020-09-29",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "TBD",
+  "durationSeconds": 5727,
+  "speakers": [
+    {"fullName": "Chris Wallace", "role": "Moderator"},
+    {"fullName": "Donald J Trump", "role": "Republican nominee for President"},
+    {"fullName": "Joe Biden", "role": "Democratic nominee for President"}
+  ]
+}
