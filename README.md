@@ -21,7 +21,7 @@ Version number is "**retractions + inclusion criteria changes**.*new events*.min
 
 ## [Unreleased]
 
-## [1.0.0] - 2020-09-29
+## [0.1.0] - 2020-09-29
 * The initial version of the files in this repository were built in the `presidential-debates` folder of the [mtdo](https://github.com/mytakedotorg/mtdo/tree/prod/2019-04-15/presidential-debates) repository.
 * We will try to bring the history from that subfolder into this in the future.
 * But for now, we're shipping our first public version, so we're calling it 1.0 and working from here.
