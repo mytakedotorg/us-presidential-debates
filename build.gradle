@@ -18,7 +18,7 @@ mtdoFactset {
 				})
 				.sorted().collect(java.util.stream.Collectors.joining(", "))
 		// combine the names and titles
-		meta.fact.title = "Presidential Debate - " + lastNames + " (" + matcher.group(1) + " of " + matcher.group(2) + ")"
+		meta.fact.title = lastNames + " (" + matcher.group(1) + " of " + matcher.group(2) + ")"
 	}
 	videoTranscript {
 		replace("Acronyms confuse our tooling 1", "F.B.I.", "FBI");
