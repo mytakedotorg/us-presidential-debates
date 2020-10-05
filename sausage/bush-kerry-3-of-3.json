@@ -2,7 +2,9 @@
 "title":"Bush, Kerry (3 of 3)",
 "primaryDate":"2004-10-13",
 "primaryDateKind":"recorded",
-"kind":"video"},
+"kind":"video"},"factset":{
+"id":"us-presidential-debates",
+"title":"U.S. Presidential Debates"},
 "youtubeId":"lyj-qVXQMdI",
 "durationSeconds":5355.0,"speakers":[{
 "fullName":"Bob Schieffer",

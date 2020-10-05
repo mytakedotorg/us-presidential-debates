@@ -2,7 +2,9 @@
 "title":"Kennedy, Nixon (3 of 4)",
 "primaryDate":"1960-10-13",
 "primaryDateKind":"recorded",
-"kind":"video"},
+"kind":"video"},"factset":{
+"id":"us-presidential-debates",
+"title":"U.S. Presidential Debates"},
 "youtubeId":"PdjgZ5xx42o",
 "durationSeconds":3516.0,"speakers":[{
 "fullName":"Bill Shadel",

@@ -2,7 +2,9 @@
 "title":"Clinton, Trump (2 of 3)",
 "primaryDate":"2016-10-09",
 "primaryDateKind":"recorded",
-"kind":"video"},
+"kind":"video"},"factset":{
+"id":"us-presidential-debates",
+"title":"U.S. Presidential Debates"},
 "youtubeId":"FcDNuWIs2qk",
 "durationSeconds":5608.0,"speakers":[{
 "fullName":"Anderson H Cooper",

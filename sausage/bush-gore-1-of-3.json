@@ -2,7 +2,9 @@
 "title":"Bush, Gore (1 of 3)",
 "primaryDate":"2000-10-03",
 "primaryDateKind":"recorded",
-"kind":"video"},
+"kind":"video"},"factset":{
+"id":"us-presidential-debates",
+"title":"U.S. Presidential Debates"},
 "youtubeId":"NQFabXU_52Q",
 "durationSeconds":5409.0,"speakers":[{
 "fullName":"Al Gore",

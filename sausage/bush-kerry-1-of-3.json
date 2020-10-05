@@ -2,7 +2,9 @@
 "title":"Bush, Kerry (1 of 3)",
 "primaryDate":"2004-09-30",
 "primaryDateKind":"recorded",
-"kind":"video"},
+"kind":"video"},"factset":{
+"id":"us-presidential-debates",
+"title":"U.S. Presidential Debates"},
 "youtubeId":"zuLdMW-y7ug",
 "durationSeconds":5347.0,"speakers":[{
 "fullName":"George W Bush",

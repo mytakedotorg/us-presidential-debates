@@ -2,7 +2,9 @@
 "title":"Clinton, Trump (3 of 3)",
 "primaryDate":"2016-10-19",
 "primaryDateKind":"recorded",
-"kind":"video"},
+"kind":"video"},"factset":{
+"id":"us-presidential-debates",
+"title":"U.S. Presidential Debates"},
 "youtubeId":"eXNnggT5fPM",
 "durationSeconds":5592.0,"speakers":[{
 "fullName":"Chris Wallace",

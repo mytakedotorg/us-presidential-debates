@@ -2,7 +2,9 @@
 "title":"Clinton, Trump (1 of 3)",
 "primaryDate":"2016-09-26",
 "primaryDateKind":"recorded",
-"kind":"video"},
+"kind":"video"},"factset":{
+"id":"us-presidential-debates",
+"title":"U.S. Presidential Debates"},
 "youtubeId":"2K6ao-fqA00",
 "durationSeconds":5727.0,"speakers":[{
 "fullName":"Donald J Trump",

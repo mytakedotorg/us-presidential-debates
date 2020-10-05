@@ -2,7 +2,9 @@
 "title":"Kennedy, Nixon (4 of 4)",
 "primaryDate":"1960-10-21",
 "primaryDateKind":"recorded",
-"kind":"video"},
+"kind":"video"},"factset":{
+"id":"us-presidential-debates",
+"title":"U.S. Presidential Debates"},
 "youtubeId":"lzeZXCPjH2U",
 "durationSeconds":3535.0,"speakers":[{
 "fullName":"Announcer offscreen",

@@ -2,7 +2,9 @@
 "title":"Kennedy, Nixon (2 of 4)",
 "primaryDate":"1960-10-07",
 "primaryDateKind":"recorded",
-"kind":"video"},
+"kind":"video"},"factset":{
+"id":"us-presidential-debates",
+"title":"U.S. Presidential Debates"},
 "youtubeId":"uBmuBXuD8NY",
 "durationSeconds":3528.0,"speakers":[{
 "fullName":"Alvin Spivak",

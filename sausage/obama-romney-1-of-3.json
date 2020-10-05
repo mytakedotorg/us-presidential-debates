@@ -2,7 +2,9 @@
 "title":"Obama, Romney (1 of 3)",
 "primaryDate":"2012-10-03",
 "primaryDateKind":"recorded",
-"kind":"video"},
+"kind":"video"},"factset":{
+"id":"us-presidential-debates",
+"title":"U.S. Presidential Debates"},
 "youtubeId":"--oqXCLAbLg",
 "durationSeconds":5460.0,"speakers":[{
 "fullName":"Barack H Obama",
