@@ -1,0 +1,20 @@
+{
+  "fact": {
+    "title": "Cheney, Edwards (VP)",
+    "primaryDate": "2004-10-05",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "TODO",
+  "durationSeconds": 0,
+  "location": {
+    "placename": "Case Western Reserve University",
+    "cityState": "Cleveland, OH",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "Dick Cheney", "role": "Republican nominee for Vice President"},
+    {"fullName": "John Edwards", "role": "Democratic nominee for Vice President"},
+    {"fullName": "Gwen Ifill", "role": "Moderator"},
+  ]
+}

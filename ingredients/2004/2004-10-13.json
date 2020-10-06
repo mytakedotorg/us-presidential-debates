@@ -7,6 +7,11 @@
   },
   "youtubeId": "lyj-qVXQMdI",
   "durationSeconds": 5355,
+  "location": {
+    "placename": "Arizona State University",
+    "cityState": "Tempe, AZ",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Bob Schieffer", "role": "Moderator"},
     {"fullName": "George W Bush", "role": "Republican nominee for President"},
