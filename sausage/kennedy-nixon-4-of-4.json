@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"lzeZXCPjH2U",
-"durationSeconds":3535.0,"speakers":[{
+"durationSeconds":3535.0,"location":{
+"placename":"ABC studios",
+"cityState":"New York, NY",
+"country":"USA"},"speakers":[{
 "fullName":"Announcer offscreen",
 "role":"Announcer offscreen"},{
 "fullName":"Frank Singiser",

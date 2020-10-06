@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"VlavB3SFTUQ",
-"durationSeconds":4944.0,"speakers":[{
+"durationSeconds":4944.0,"location":{
+"placename":"Wake Forest University",
+"cityState":"Winston-Salem, NC",
+"country":"USA"},"speakers":[{
 "fullName":"Al Gore",
 "role":"Democratic nominee for President"},{
 "fullName":"George W Bush",

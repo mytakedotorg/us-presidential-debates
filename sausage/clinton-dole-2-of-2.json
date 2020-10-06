@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"T_ttLcdbAPE",
-"durationSeconds":5478.0,"speakers":[{
+"durationSeconds":5478.0,"location":{
+"placename":"Shiley Theater, University of San Diego",
+"cityState":"San Diego, CA",
+"country":"USA"},"speakers":[{
 "fullName":"Bertha Strategos",
 "role":"Audience questioner"},{
 "fullName":"Bill J Clinton",

@@ -1,0 +1,20 @@
+{
+  "fact": {
+    "title": "Gore, Quayle, Stockdale (VP)",
+    "primaryDate": "1992-10-13",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "TODO",
+  "durationSeconds": 0,
+  "location": {
+    "placename": "Theater for the Arts, Georgia Tech",
+    "cityState": "Atlanta, GA",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "Dan Quayle", "role": "Republican nominee for Vice President"},
+    {"fullName": "Al Gore", "role": "Democratic nominee for Vice President"},
+    {"fullName": "James Stockdale", "role": "Independent candidate for Vice President"}
+  ]
+}

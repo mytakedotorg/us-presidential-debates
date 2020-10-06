@@ -7,6 +7,11 @@
   },
   "youtubeId": "FcDNuWIs2qk",
   "durationSeconds": 5608,
+  "location": {
+    "placename": "Washington University in St. Louis",
+    "cityState": "St. Louis, MO",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Anderson H Cooper", "role": "Moderator"},
     {"fullName": "Beth Miller", "role": "Audience questioner"},

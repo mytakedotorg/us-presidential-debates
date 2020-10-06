@@ -7,6 +7,11 @@
   },
   "youtubeId": "KxvfacuEbnA",
   "durationSeconds": 5266,
+  "location": {
+    "placename": "Pauley Pavillion, University of California at Los Angeles",
+    "cityState": "Los Angeles, CA",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Andrea Mitchell", "role": "Panelist"},
     {"fullName": "Ann Compton", "role": "Panelist"},

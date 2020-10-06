@@ -7,6 +7,11 @@
   },
   "youtubeId": "L7MdD72ZqJ0",
   "durationSeconds": 6027,
+  "location": {
+    "placename": "Center for the Performing Arts",
+    "cityState": "Louisville, KY",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Barbara Walters", "role": "Moderator"},
     {"fullName": "Diane Sawyer", "role": "Panelist"},

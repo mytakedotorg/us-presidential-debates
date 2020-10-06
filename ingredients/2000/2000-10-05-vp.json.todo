@@ -1,0 +1,19 @@
+{
+  "fact": {
+    "title": "Cheney, Lieberman (VP)",
+    "primaryDate": "2000-10-05",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "TODO",
+  "durationSeconds": 0,
+  "location": {
+    "placename": "Centre College",
+    "cityState": "Danville, KY",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "Dick Cheney", "role": "Republican nominee for Vice President"},
+    {"fullName": "Joseph Lieberman", "role": "Democratic nominee for Vice President"},
+  ]
+}

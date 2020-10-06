@@ -7,6 +7,11 @@
   },
   "youtubeId": "eXNnggT5fPM",
   "durationSeconds": 5592,
+  "location": {
+    "placename": "University of Nevada, Las Vegas",
+    "cityState": "Las Vegas, NV",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Chris Wallace", "role": "Moderator"},
     {"fullName": "Donald J Trump", "role": "Republican nominee for President"},

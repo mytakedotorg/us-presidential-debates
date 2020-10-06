@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"SLy5fq1b4jA",
-"durationSeconds":5224.0,"speakers":[{
+"durationSeconds":5224.0,"location":{
+"placename":"Palace of Fine Arts",
+"cityState":"San Francisco, CA",
+"country":"USA"},"speakers":[{
 "fullName":"Gerald R Ford",
 "role":"Republican nominee for President"},{
 "fullName":"Henry L Trewhitt",

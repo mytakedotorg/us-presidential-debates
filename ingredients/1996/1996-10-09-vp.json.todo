@@ -1,0 +1,20 @@
+{
+  "fact": {
+    "title": "Gore, Kemp (VP)",
+    "primaryDate": "1996-10-09",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "TODO",
+  "durationSeconds": 0,
+  "location": {
+    "placename": "The Bayfront Center's Mahaffey Theater",
+    "cityState": "St. Petersburg, FL",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "Dan Quayle", "role": "Republican nominee for Vice President"},
+    {"fullName": "Al Gore", "role": "Democratic nominee for Vice President"},
+    {"fullName": "James Stockdale", "role": "Independent candidate for Vice President"}
+  ]
+}

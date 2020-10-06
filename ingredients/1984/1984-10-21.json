@@ -7,6 +7,11 @@
   },
   "youtubeId": "v1SGZ6YM5lU",
   "durationSeconds": 5253,
+  "location": {
+    "placename": "Music Hall, Municipal Auditorium",
+    "cityState": "Kansas City, KS",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Audience offscreen", "role": "Audience offscreen"},
     {"fullName": "Dorothy Ridings", "role": "Announcer"},

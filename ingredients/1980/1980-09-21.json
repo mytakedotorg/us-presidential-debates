@@ -7,6 +7,11 @@
   },
   "youtubeId": "pZqindVjd54",
   "durationSeconds": 3664,
+  "location": {
+    "placename": "Convention Center",
+    "cityState": "Baltimore, MD",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Bill Moyers", "role": "Moderator"},
     {"fullName": "Carol Loomis", "role": "Panelist"},

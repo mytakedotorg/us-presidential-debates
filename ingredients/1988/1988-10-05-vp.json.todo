@@ -1,0 +1,19 @@
+{
+  "fact": {
+    "title": "Bentsen, Quayle (VP)",
+    "primaryDate": "1988-10-05",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "TODO",
+  "durationSeconds": 0,
+  "location": {
+    "placename": "Omaha Civic Auditorium",
+    "cityState": "Omaha, NE",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "Lloyd Bentsen", "role": "Republican nominee for Vice President"},
+    {"fullName": "Dan Quayle", "role": "Democratic nominee for Vice President"}
+  ]
+}

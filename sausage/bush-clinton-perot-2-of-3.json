@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"0Z9DZ715Ku4",
-"durationSeconds":5411.0,"speakers":[{
+"durationSeconds":5411.0,"location":{
+"placename":"Robbins Field House, University of Richmond",
+"cityState":"Richmond, VA",
+"country":"USA"},"speakers":[{
 "fullName":"Audience questioner",
 "role":"Audience questioner"},{
 "fullName":"Bill J Clinton",

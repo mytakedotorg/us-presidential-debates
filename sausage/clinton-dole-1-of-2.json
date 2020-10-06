@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"JcyqYFlh_x4",
-"durationSeconds":5849.0,"speakers":[{
+"durationSeconds":5849.0,"location":{
+"placename":"The Bushnell",
+"cityState":"Hartford, CT",
+"country":"USA"},"speakers":[{
 "fullName":"Bill J Clinton",
 "role":"Democratic nominee for President"},{
 "fullName":"Bob J Dole",

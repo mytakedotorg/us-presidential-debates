@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"zuLdMW-y7ug",
-"durationSeconds":5347.0,"speakers":[{
+"durationSeconds":5347.0,"location":{
+"placename":"University of Miami",
+"cityState":"Coral Gables, FL",
+"country":"USA"},"speakers":[{
 "fullName":"George W Bush",
 "role":"Republican nominee for President"},{
 "fullName":"Jim Lehrer",

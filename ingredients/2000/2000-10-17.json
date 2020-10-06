@@ -7,6 +7,11 @@
   },
   "youtubeId": "ZFbyKIUp1E8",
   "durationSeconds": 5507,
+  "location": {
+    "placename": "Washington University",
+    "cityState": "St. Louis, MO",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Al Gore", "role": "Democratic nominee for President"},
     {"fullName": "Andrew Kosberg", "role": "Audience questioner"},

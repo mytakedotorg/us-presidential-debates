@@ -7,6 +7,11 @@
   },
   "youtubeId": "XbJEc-eRErE",
   "durationSeconds": 5807,
+  "location": {
+    "placename": "Washington University in St. Louis",
+    "cityState": "St. Louis, MO",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Ann Bronsing", "role": "Audience questioner"},
     {"fullName": "Anthony Baldi", "role": "Audience questioner"},

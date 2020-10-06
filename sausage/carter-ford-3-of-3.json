@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"2qnm04GJyPg",
-"durationSeconds":5377.0,"speakers":[{
+"durationSeconds":5377.0,"location":{
+"placename":"Phi Beta Kappa Hall, College of William and Mary",
+"cityState":"Williamsburg, VA",
+"country":"USA"},"speakers":[{
 "fullName":"Barbara Walters",
 "role":"Moderator"},{
 "fullName":"Gerald R Ford",

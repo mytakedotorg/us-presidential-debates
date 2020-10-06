@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"v1SGZ6YM5lU",
-"durationSeconds":5253.0,"speakers":[{
+"durationSeconds":5253.0,"location":{
+"placename":"Music Hall, Municipal Auditorium",
+"cityState":"Kansas City, KS",
+"country":"USA"},"speakers":[{
 "fullName":"Audience offscreen",
 "role":"Audience offscreen"},{
 "fullName":"Dorothy Ridings",

@@ -7,6 +7,11 @@
   },
   "youtubeId": "3ih3SXAsUiY",
   "durationSeconds": 5436,
+  "location": {
+    "placename": "Hofstra University",
+    "cityState": "Hempstead, NY",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Barack H Obama", "role": "Democratic nominee for President"},
     {"fullName": "Bob Schieffer", "role": "Moderator"},

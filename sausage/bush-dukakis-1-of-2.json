@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"HXuffF9Sib0",
-"durationSeconds":5508.0,"speakers":[{
+"durationSeconds":5508.0,"location":{
+"placename":"Wait Chapel, Wake Forest University",
+"cityState":"Winston-Salem, NC",
+"country":"USA"},"speakers":[{
 "fullName":"Ann Groer",
 "role":"Panelist"},{
 "fullName":"George HW Bush",

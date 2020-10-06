@@ -7,6 +7,11 @@
   },
   "youtubeId": "9Z43XV4T8Bc",
   "durationSeconds": 5576,
+  "location": {
+    "placename": "Field House, Washington University",
+    "cityState": "St. Louis, MO",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Ann Compton", "role": "Panelist"},
     {"fullName": "Bill J Clinton", "role": "Democratic nominee for President"},
