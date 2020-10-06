@@ -7,6 +7,11 @@
   },
   "youtubeId": "--oqXCLAbLg",
   "durationSeconds": 5460,
+  "location": {
+    "placename": "University of Denver",
+    "cityState": "Denver, CO",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Barack H Obama", "role": "Democratic nominee for President"},
     {"fullName": "Jim Lehrer", "role": "Moderator"},

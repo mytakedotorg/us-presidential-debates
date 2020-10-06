@@ -1,0 +1,20 @@
+{
+  "fact": {
+    "title": "Biden, Ryan (VP)",
+    "primaryDate": "2012-10-11",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "TODO",
+  "durationSeconds": 0,
+  "location": {
+    "placename": "Centre College",
+    "cityState": "Danville, KY",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "Joe Biden", "role": "Democratic nominee for Vice President"},
+    {"fullName": "Paul Ryan", "role": "Republican nominee for Vice President"},
+    {"fullName": "Martha Raddatz", "role": "Moderator"},
+  ]
+}
