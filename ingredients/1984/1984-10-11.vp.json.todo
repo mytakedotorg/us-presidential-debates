@@ -1,0 +1,19 @@
+{
+  "fact": {
+    "title": "Bush, Ferraro (VP)",
+    "primaryDate": "1984-10-11",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "TODO",
+  "durationSeconds": 0,
+  "location": {
+    "placename": "Pennsylvania Hall Civic Center",
+    "cityState": "Philadelphia, PA",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "George Bush", "role": "Republican nominee for Vice President"},
+    {"fullName": "Geraldine Ferraro", "role": "Democratic nominee for Vice President"}
+  ]
+}
