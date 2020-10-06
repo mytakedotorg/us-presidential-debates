@@ -1,0 +1,19 @@
+{
+  "fact": {
+    "title": "Dole, Mondale (VP)",
+    "primaryDate": "1976-10-15",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "TODO",
+  "durationSeconds": 0,
+  "location": {
+    "placename": "Alley Theatre",
+    "cityState": "Houston, TX",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "Bob J Dole", "role": "Republican nominee for Vice President"},
+    {"fullName": "Walter F Mondale", "role": "Democratic nominee for Vice President"}
+  ]
+}

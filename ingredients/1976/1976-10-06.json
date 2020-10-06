@@ -7,6 +7,11 @@
   },
   "youtubeId": "SLy5fq1b4jA",
   "durationSeconds": 5224,
+  "location": {
+    "placename": "Palace of Fine Arts",
+    "cityState": "San Francisco, CA",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Gerald R Ford", "role": "Republican nominee for President"},
     {"fullName": "Henry L Trewhitt", "role": "Panelist"},

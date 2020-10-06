@@ -7,6 +7,11 @@
   },
   "youtubeId": "Zbe9FnAmkSk",
   "durationSeconds": 5445,
+  "location": {
+    "placename": "Walnut Street Theater",
+    "cityState": "Philadelphia, PA",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Announcer offscreen", "role": "Announcer offscreen"},
     {"fullName": "Edwin Newman", "role": "Moderator"},

@@ -7,6 +7,11 @@
   },
   "youtubeId": "2qnm04GJyPg",
   "durationSeconds": 5377,
+  "location": {
+    "placename": "Phi Beta Kappa Hall, College of William and Mary",
+    "cityState": "Williamsburg, VA",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Barbara Walters", "role": "Moderator"},
     {"fullName": "Gerald R Ford", "role": "Republican nominee for President"},
