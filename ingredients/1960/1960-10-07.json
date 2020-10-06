@@ -7,6 +7,11 @@
   },
   "youtubeId": "uBmuBXuD8NY",
   "durationSeconds": 3528,
+  "location": {
+    "placename": "WRC-TV, NBC affiliate",
+    "cityState": "Washington, D.C.",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Alvin Spivak", "role": "Panelist"},
     {"fullName": "Announcer offscreen", "role": "Announcer offscreen"},

@@ -7,6 +7,11 @@
   },
   "youtubeId": "lzeZXCPjH2U",
   "durationSeconds": 3535,
+  "location": {
+    "placename": "ABC studios",
+    "cityState": "New York, NY",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Announcer offscreen", "role": "Announcer offscreen"},
     {"fullName": "Frank Singiser", "role": "Panelist"},

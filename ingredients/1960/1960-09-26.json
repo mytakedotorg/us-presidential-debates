@@ -7,6 +7,11 @@
   },
   "youtubeId": "CsurHThBBkk",
   "durationSeconds": 3536,
+  "location": {
+    "placename": "WBBM-TV, CBS affiliate",
+    "cityState": "Chicago, IL",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Announcer offscreen", "role": "Announcer offscreen"},
     {"fullName": "Bob H Fleming", "role": "Panelist"},
