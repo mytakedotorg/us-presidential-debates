@@ -7,6 +7,11 @@
   },
   "youtubeId": "VlavB3SFTUQ",
   "durationSeconds": 4944,
+  "location": {
+    "placename": "Wake Forest University",
+    "cityState": "Winston-Salem, NC",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Al Gore", "role": "Democratic nominee for President"},
     {"fullName": "George W Bush", "role": "Republican nominee for President"},

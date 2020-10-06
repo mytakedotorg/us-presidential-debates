@@ -7,6 +7,11 @@
   },
   "youtubeId": "NQFabXU_52Q",
   "durationSeconds": 5409,
+  "location": {
+    "placename": "University of Massachusetts",
+    "cityState": "Boston, MA",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Al Gore", "role": "Democratic nominee for President"},
     {"fullName": "George W Bush", "role": "Republican nominee for President"},
