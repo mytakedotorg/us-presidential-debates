@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"eXNnggT5fPM",
-"durationSeconds":5592.0,"speakers":[{
+"durationSeconds":5592.0,"location":{
+"placename":"University of Nevada, Las Vegas",
+"cityState":"Las Vegas, NV",
+"country":"USA"},"speakers":[{
 "fullName":"Chris Wallace",
 "role":"Moderator"},{
 "fullName":"Donald J Trump",

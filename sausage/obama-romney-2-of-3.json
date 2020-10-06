@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"nchGzjFHB-g",
-"durationSeconds":5876.0,"speakers":[{
+"durationSeconds":5876.0,"location":{
+"placename":"Hofstra University",
+"cityState":"Hempstead, NY",
+"country":"USA"},"speakers":[{
 "fullName":"Barack H Obama",
 "role":"Democratic nominee for President"},{
 "fullName":"Barry Green",

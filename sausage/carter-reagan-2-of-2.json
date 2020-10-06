@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"a1J1TkWCLhs",
-"durationSeconds":5691.0,"speakers":[{
+"durationSeconds":5691.0,"location":{
+"placename":"Public Music Hall",
+"cityState":"Cleveland, OH",
+"country":"USA"},"speakers":[{
 "fullName":"Barbara Walters",
 "role":"Panelist"},{
 "fullName":"Harry Ellis",

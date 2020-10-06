@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"Zbe9FnAmkSk",
-"durationSeconds":5445.0,"speakers":[{
+"durationSeconds":5445.0,"location":{
+"placename":"Walnut Street Theater",
+"cityState":"Philadelphia, PA",
+"country":"USA"},"speakers":[{
 "fullName":"Announcer offscreen",
 "role":"Announcer offscreen"},{
 "fullName":"Edwin Newman",

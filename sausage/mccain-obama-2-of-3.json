@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"57qocCPgp3U",
-"durationSeconds":5967.0,"speakers":[{
+"durationSeconds":5967.0,"location":{
+"placename":"Belmont University",
+"cityState":"Nashville, TN",
+"country":"USA"},"speakers":[{
 "fullName":"Alan Schaefer",
 "role":"Audience questioner"},{
 "fullName":"Barack H Obama",

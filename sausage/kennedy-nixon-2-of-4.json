@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"uBmuBXuD8NY",
-"durationSeconds":3528.0,"speakers":[{
+"durationSeconds":3528.0,"location":{
+"placename":"WRC-TV, NBC affiliate",
+"cityState":"Washington, D.C.",
+"country":"USA"},"speakers":[{
 "fullName":"Alvin Spivak",
 "role":"Panelist"},{
 "fullName":"Announcer offscreen",

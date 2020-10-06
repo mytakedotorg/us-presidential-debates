@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"2K6ao-fqA00",
-"durationSeconds":5727.0,"speakers":[{
+"durationSeconds":5727.0,"location":{
+"placename":"Hofstra University",
+"cityState":"Hempstead, NY",
+"country":"USA"},"speakers":[{
 "fullName":"Donald J Trump",
 "role":"Republican nominee for President"},{
 "fullName":"Hillary R Clinton",

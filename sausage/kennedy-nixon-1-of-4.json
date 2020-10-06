@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"CsurHThBBkk",
-"durationSeconds":3536.0,"speakers":[{
+"durationSeconds":3536.0,"location":{
+"placename":"WBBM-TV, CBS affiliate",
+"cityState":"Chicago, IL",
+"country":"USA"},"speakers":[{
 "fullName":"Announcer offscreen",
 "role":"Announcer offscreen"},{
 "fullName":"Bob H Fleming",

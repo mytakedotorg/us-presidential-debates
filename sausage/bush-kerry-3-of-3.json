@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"lyj-qVXQMdI",
-"durationSeconds":5355.0,"speakers":[{
+"durationSeconds":5355.0,"location":{
+"placename":"Arizona State University",
+"cityState":"Tempe, AZ",
+"country":"USA"},"speakers":[{
 "fullName":"Bob Schieffer",
 "role":"Moderator"},{
 "fullName":"George W Bush",

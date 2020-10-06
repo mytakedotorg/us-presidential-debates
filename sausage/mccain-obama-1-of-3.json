@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"KxrDwwDEDFY",
-"durationSeconds":5804.0,"speakers":[{
+"durationSeconds":5804.0,"location":{
+"placename":"The University of Mississippi",
+"cityState":"Oxford, MS",
+"country":"USA"},"speakers":[{
 "fullName":"Barack H Obama",
 "role":"Democratic nominee for President"},{
 "fullName":"Jim Lehrer",

@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"XbJEc-eRErE",
-"durationSeconds":5807.0,"speakers":[{
+"durationSeconds":5807.0,"location":{
+"placename":"Washington University in St. Louis",
+"cityState":"St. Louis, MO",
+"country":"USA"},"speakers":[{
 "fullName":"Ann Bronsing",
 "role":"Audience questioner"},{
 "fullName":"Anthony Baldi",

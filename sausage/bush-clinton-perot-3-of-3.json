@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"fIyiXpbAzEY",
-"durationSeconds":5689.0,"speakers":[{
+"durationSeconds":5689.0,"location":{
+"placename":"Wharton Center, Michigan State University",
+"cityState":"East Lansing, MI",
+"country":"USA"},"speakers":[{
 "fullName":"Bill J Clinton",
 "role":"Democratic nominee for President"},{
 "fullName":"Gene Gibbons",

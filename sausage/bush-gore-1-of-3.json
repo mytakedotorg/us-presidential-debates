@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"NQFabXU_52Q",
-"durationSeconds":5409.0,"speakers":[{
+"durationSeconds":5409.0,"location":{
+"placename":"University of Massachusetts",
+"cityState":"Boston, MA",
+"country":"USA"},"speakers":[{
 "fullName":"Al Gore",
 "role":"Democratic nominee for President"},{
 "fullName":"George W Bush",

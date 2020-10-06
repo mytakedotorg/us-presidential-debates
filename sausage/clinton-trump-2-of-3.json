@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"FcDNuWIs2qk",
-"durationSeconds":5608.0,"speakers":[{
+"durationSeconds":5608.0,"location":{
+"placename":"Washington University in St. Louis",
+"cityState":"St. Louis, MO",
+"country":"USA"},"speakers":[{
 "fullName":"Anderson H Cooper",
 "role":"Moderator"},{
 "fullName":"Beth Miller",

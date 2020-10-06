@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"xNMCHcKwf7Y",
-"durationSeconds":5549.0,"speakers":[{
+"durationSeconds":5549.0,"location":{
+"placename":"Lynn University",
+"cityState":"Boca Raton, FL",
+"country":"USA"},"speakers":[{
 "fullName":"Barack H Obama",
 "role":"Democratic nominee for President"},{
 "fullName":"Bob Schieffer",

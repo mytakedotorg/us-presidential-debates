@@ -6,7 +6,10 @@
 "id":"us-presidential-debates",
 "title":"U.S. Presidential Debates"},
 "youtubeId":"--oqXCLAbLg",
-"durationSeconds":5460.0,"speakers":[{
+"durationSeconds":5460.0,"location":{
+"placename":"University of Denver",
+"cityState":"Denver, CO",
+"country":"USA"},"speakers":[{
 "fullName":"Barack H Obama",
 "role":"Democratic nominee for President"},{
 "fullName":"Jim Lehrer",
