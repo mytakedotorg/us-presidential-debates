@@ -1,0 +1,20 @@
+{
+  "fact": {
+    "title": "Biden, Palin (VP)",
+    "primaryDate": "2008-10-02",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "TODO",
+  "durationSeconds": 0,
+  "location": {
+    "placename": "Washington University in St. Louis",
+    "cityState": "St. Louis, MO",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "Joe Biden", "role": "Democratic nominee for Vice President"},
+    {"fullName": "Sarah Palin", "role": "Republican nominee for Vice President"},
+    {"fullName": "Gwen Ifill", "role": "Moderator"},
+  ]
+}

@@ -7,6 +7,11 @@
   },
   "youtubeId": "57qocCPgp3U",
   "durationSeconds": 5967,
+  "location": {
+    "placename": "Belmont University",
+    "cityState": "Nashville, TN",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Alan Schaefer", "role": "Audience questioner"},
     {"fullName": "Barack H Obama", "role": "Democratic nominee for President"},
