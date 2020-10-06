@@ -7,6 +7,11 @@
   },
   "youtubeId": "HXuffF9Sib0",
   "durationSeconds": 5508,
+  "location": {
+    "placename": "Wait Chapel, Wake Forest University",
+    "cityState": "Winston-Salem, NC",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Ann Groer", "role": "Panelist"},
     {"fullName": "George HW Bush", "role": "Republican nominee for President"},
