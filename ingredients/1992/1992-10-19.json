@@ -7,6 +7,11 @@
   },
   "youtubeId": "fIyiXpbAzEY",
   "durationSeconds": 5689,
+  "location": {
+    "placename": "Wharton Center, Michigan State University",
+    "cityState": "East Lansing, MI",
+    "country": "USA"
+  },
   "speakers": [
     {"fullName": "Bill J Clinton", "role": "Democratic nominee for President"},
     {"fullName": "Gene Gibbons", "role": "Panelist"},
