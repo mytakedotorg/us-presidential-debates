@@ -1,0 +1,20 @@
+{
+  "fact": {
+    "title": "Kaine, Pence (VP)",
+    "primaryDate": "2016-10-04",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "TODO",
+  "durationSeconds": 0,
+  "location": {
+    "placename": "Longwood University",
+    "cityState": "Farmville, VA",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "Tim Kaine", "role": "Democratic nominee for Vice President"},
+    {"fullName": "Mike Pence", "role": "Republican nominee for Vice President"},
+    {"fullName": "Elaine Quijano", "role": "Moderator"},
+  ]
+}
