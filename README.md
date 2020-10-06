@@ -1,23 +1,15 @@
-# U.S. Presidential Debates
+# <img align="left" width="90px" height="90px" src="https://raw.githubusercontent.com/mytakedotorg/mtdo/staging/_imgs/logo_leaves.png"> U.S. Presidential Debates
+*Reaching for [these ideals](https://github.com/mytakedotorg/mtdo/blob/staging/factset-tooling/FACTSET_PHILOSOPHY.md) by following [these steps](https://github.com/mytakedotorg/mtdo/blob/staging/factset-tooling/FACTSET_HOWTO.md).*
 
 ## Inclusion criteria
-This factset contains every televised United States Presidential Debate. This factset does not currently contain any Vice Presidential Debates, although we plan to add them in the future.
+This factset contains every televised United States Presidential Debate. This factset does not currently contain any Vice Presidential Debates, although [we plan to add them in the future](https://github.com/mytakedotorg/us-presidential-debates/issues/6).
 
 ## Notes
-The first Presidential Debate took place in 1960 between John Kennedy and Richard Nixon. No one agreed to do them again until 1976, between Jimmy Carter and Gerald Ford. They have taken place every 4 years since then, up to and including the most recent Presidential Debate in 2016 between Hillary Clinton and Donald Trump. 
+The first Presidential Debate took place in 1960 between John Kennedy and Richard Nixon. [No one agreed to do them again until 1976](https://github.com/mytakedotorg/us-presidential-debates/issues/4), when Jimmy Carter and Gerald Ford revived the tradition. They [almost didn't happen in 1980](https://github.com/mytakedotorg/us-presidential-debates/issues/5), but eventually did, and they have continued to take place every 4 years since then, up to and including the most recent Presidential Debate in 2020 between Joe Biden and Donald Trump.
 
-When new Presidential Debates take place, we will add them to this factset within forty-eight hours of the completion of the debate.
+When new Presidential Debates take place, we will add them to this factset as soon as possible.
 
 # Changelog
-All changes to this factset are categorized as either:
-
-- Minor correction: corrected typo in blah
-- *New event*: a new event took place on date blah
-- **Retraction**: we have removed blah, we made a mistake about blah
-- **Inclusion criteria change**: we made the following change to the inclusion criteria
-  - ~~removed this~~ this part is the same **this part was added**
-  - here is why we made this change
-Version number is "**retractions + inclusion criteria changes**.*new events*.minor corrections"
 
 ## [Unreleased]
 
