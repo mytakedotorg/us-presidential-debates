@@ -12,6 +12,9 @@ When new Presidential Debates take place, we will add them to this factset as so
 # Changelog
 
 ## [Unreleased]
+* *Added detail*: added a `location` field for all the debates ([#7](https://github.com/mytakedotorg/us-presidential-debates/pull/7)).
+  * Except `1960-10-13`, in which [Nixon was in LA while Kennedy was in NYC](https://github.com/mytakedotorg/us-presidential-debates/pull/7/commits/cf0d00688005c28485165b25c00fec738798e742#diff-fc33bd38ca325f4cbf616abd57f28378).
+  * Also added metadata for the VP debates, in preparation for adding them in the future.
 
 ## [0.1.0] - 2020-09-29
 * The initial version of the files in this repository were built in the `presidential-debates` folder of the [mtdo](https://github.com/mytakedotorg/mtdo/tree/prod/2019-04-15/presidential-debates) repository.
