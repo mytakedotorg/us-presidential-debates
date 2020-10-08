@@ -13,8 +13,8 @@
     "country": "USA"
   },
   "speakers": [
+    {"fullName": "Chris Wallace", "role": "Moderator"},
     {"fullName": "Donald J Trump", "role": "Republican nominee for President"},
-    {"fullName": "Joe R Biden", "role": "Democratic nominee for President"},
-    {"fullName": "Chris Wallace", "role": "Moderator"}
+    {"fullName": "Joe R Biden", "role": "Democratic nominee for President"}
   ]
 }
