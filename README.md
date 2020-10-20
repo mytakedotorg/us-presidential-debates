@@ -12,6 +12,7 @@ When new Presidential Debates take place, we will add them to this factset as so
 # Changelog
 
 ## [Unreleased]
+* *New event*: Added Biden Trump 1 of 3, 2020-09-29, transcription on YouTube parts [1](https://www.youtube.com/watch?v=qeqabiNXePM), [2](https://www.youtube.com/watch?v=2fxlZy5PvAU), [3](https://www.youtube.com/watch?v=-JtJnYUMxkY), [4](https://www.youtube.com/watch?v=QmyESfk3X6I), [5](https://www.youtube.com/watch?v=g_PIEISYz44), [6](https://www.youtube.com/watch?v=SlGO-iugPMM), [7](TODO), [8](https://www.youtube.com/watch?v=WYf3BbXcR3g). ([PR #8](https://github.com/mytakedotorg/us-presidential-debates/pull/8))
 
 ## [1.0.0] - 2020-10-06
 * **Changed title of published fact**: every fact title began with `U.S. Presidential Debates - `, removed in ([955fd7f](https://github.com/mytakedotorg/us-presidential-debates/commit/955fd7f212c07a86341bd8e0ae8f1ff46bd6bbb2)).
