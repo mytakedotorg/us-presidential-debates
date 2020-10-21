@@ -1,0 +1,20 @@
+{
+  "fact": {
+    "title": "Biden, Trump (1 of 3)",
+    "primaryDate": "2020-09-29",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "WRUSNGrZeHk",
+  "durationSeconds": 5710,
+  "location": {
+    "placename": "Hofstra University",
+    "cityState": "Hempstead, NY",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "Chris Wallace", "role": "Moderator"},
+    {"fullName": "Donald J Trump", "role": "Republican nominee for President"},
+    {"fullName": "Joe R Biden", "role": "Democratic nominee for President"}
+  ]
+}
