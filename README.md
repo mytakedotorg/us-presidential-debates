@@ -12,6 +12,7 @@ When new Presidential Debates take place, we will add them to this factset as so
 # Changelog
 
 ## [Unreleased]
+* **Changed title of published fact**: The second of three planned presidential debates was cancelled, so there were only two. Renamed `biden-trump-1-of-3` to `biden-trump-1-of-2` (discussed in [#9](https://github.com/mytakedotorg/us-presidential-debates/issues/9)).
 
 ## [1.1.0] - 2020-10-21
 * *New event*: Added Biden Trump 1 of 3, 2020-09-29, transcription on YouTube parts [1](https://www.youtube.com/watch?v=qeqabiNXePM), [2](https://www.youtube.com/watch?v=2fxlZy5PvAU), [3](https://www.youtube.com/watch?v=-JtJnYUMxkY), [4](https://www.youtube.com/watch?v=QmyESfk3X6I), [5](https://www.youtube.com/watch?v=g_PIEISYz44), [6](https://www.youtube.com/watch?v=SlGO-iugPMM), [7](TODO), [8](https://www.youtube.com/watch?v=WYf3BbXcR3g). ([PR #8](https://github.com/mytakedotorg/us-presidential-debates/pull/8))
