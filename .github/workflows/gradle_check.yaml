@@ -12,7 +12,7 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: 1.8
-      - name: gradle build
+      - name: gradlew build
         run: ./gradlew build
-      - name: gradle build
+      - name: gradlew changelogPrint
         run: ./gradlew changelogPrint
