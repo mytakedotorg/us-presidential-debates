@@ -1,0 +1,20 @@
+{
+  "fact": {
+    "title": "Biden, Trump (2 of 2)",
+    "primaryDate": "2020-10-22",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "FIS84RTBzeY",
+  "durationSeconds": 5576,
+  "location": {
+    "placename": "Belmont University",
+    "cityState": "Nashville, TN",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "Kristen Welker", "role": "Moderator"},
+    {"fullName": "Donald J Trump", "role": "Republican nominee for President"},
+    {"fullName": "Joe R Biden", "role": "Democratic nominee for President"}
+  ]
+}

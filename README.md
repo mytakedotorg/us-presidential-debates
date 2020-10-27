@@ -31,6 +31,7 @@ When new Presidential Debates take place, we will add them to this factset as so
 <!-- END CHANGELOG -->
 
 # Acknowledgements
-- Transcript for `Biden, Trump (1 of 3)` from [rev](https://www.rev.com/blog/transcripts/donald-trump-joe-biden-1st-presidential-debate-transcript-2020).
+- Transcript for `Biden, Trump (1 of 2)` from [rev](https://www.rev.com/blog/transcripts/donald-trump-joe-biden-1st-presidential-debate-transcript-2020).
+- Transcript for `Biden, Trump (2 of 2)` from [rev](https://www.rev.com/blog/transcripts/donald-trump-joe-biden-final-presidential-debate-transcript-2020).
 - [The Commission on Presidential Debates](https://www.debates.org/) provides transcripts and metadata for the debates.
 - [C-SPAN](https://www.c-span.org/) provides video footage.
