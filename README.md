@@ -12,6 +12,8 @@ When new Presidential Debates take place, we will add them to this factset as so
 # Changelog
 
 ## [Unreleased]
+
+## [2.0.0] - 2020-10-28
 * *New event*: Added Biden Trump 2 of 2, 2020-10-22 ([PR #12](https://github.com/mytakedotorg/us-presidential-debates/pull/12))
 * **Changed title of published fact**: The second of three planned presidential debates was cancelled, so there were only two. Renamed `biden-trump-1-of-3` to `biden-trump-1-of-2` (discussed in [#9](https://github.com/mytakedotorg/us-presidential-debates/issues/9)).
 
