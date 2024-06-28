@@ -12,6 +12,8 @@ When new Presidential Debates take place, we will add them to this factset as so
 # Changelog
 
 ## [Unreleased]
+* *New event*: Added 2024 Biden Trump 1 of 2, 2024-06-27 ([PR #13](https://github.com/mytakedotorg/us-presidential-debates/pull/13))
+  * Note, this event collided with our naming convention, so we prepended `2024` to the fact's title. Tracking this in [#14](https://github.com/mytakedotorg/us-presidential-debates/issues/14).
 
 ## [2.0.0] - 2020-10-28
 * *New event*: Added Biden Trump 2 of 2, 2020-10-22 ([PR #12](https://github.com/mytakedotorg/us-presidential-debates/pull/12))
@@ -38,3 +40,4 @@ When new Presidential Debates take place, we will add them to this factset as so
 - Transcript for `Biden, Trump (2 of 2)` from [rev](https://www.rev.com/blog/transcripts/donald-trump-joe-biden-final-presidential-debate-transcript-2020).
 - [The Commission on Presidential Debates](https://www.debates.org/) provides transcripts and metadata for the debates.
 - [C-SPAN](https://www.c-span.org/) provides video footage.
+- [CNN](https://www.cnn.com/) provided footage of the first debate of 2024.
