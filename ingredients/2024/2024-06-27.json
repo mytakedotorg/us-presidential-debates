@@ -1,0 +1,21 @@
+{
+  "fact": {
+    "title": "Biden, Trump (2024 1 of 2)",
+    "primaryDate": "2024-06-27",
+    "primaryDateKind": "recorded",
+    "kind": "video"
+  },
+  "youtubeId": "MDpXM6yHQkg",
+  "durationSeconds": 5829,
+  "location": {
+    "placename": "CNN Headquarters",
+    "cityState": "Atlanta, GA",
+    "country": "USA"
+  },
+  "speakers": [
+    {"fullName": "Dana Bash", "role": "Moderator"},
+    {"fullName": "Jake Tapper", "role": "Moderator"},
+    {"fullName": "Donald J Trump", "role": "Republican nominee for President"},
+    {"fullName": "Joe R Biden", "role": "Democratic nominee for President"}
+  ]
+}
