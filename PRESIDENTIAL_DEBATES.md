@@ -50,3 +50,8 @@ Note: We have not included any vice-presidential debates.  We intend to add them
 |Sep 26 | [YT: US Presidential Debates](https://www.youtube.com/watch?v=NscjkqaJ8wI) | Behind a podium |
 |Oct 9  | [YT: US Presidential Debates](https://www.youtube.com/watch?v=qkk1lrLQl9Q) | Town hall       |
 |Oct 16 | [YT: US Presidential Debates](https://www.youtube.com/watch?v=fT0spjjJOK8) | Behind a desk   |
+|**2020** | **Joe Biden** v Donald Trump |         |  |
+| Sep 29 | [YT: C-SPAN](https://www.youtube.com/watch?v=wW1lY5jFNcQ) | Behind a podium |
+| Oct 22 | [YT: C-SPAN](https://www.youtube.com/watch?v=bPiofmZGb8o) | Behind a podium |
+|**2024**| Joe Biden v Donald Trump |             |  |
+| Jun 27 | [YT: CNN](https://www.youtube.com/watch?v=-v-8wJkmwBY) | Behind a podium |
