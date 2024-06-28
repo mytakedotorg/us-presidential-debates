@@ -12,6 +12,8 @@ When new Presidential Debates take place, we will add them to this factset as so
 # Changelog
 
 ## [Unreleased]
+
+## [2.1.0] - 2024-06-28
 * *New event*: Added 2024 Biden Trump 1 of 2, 2024-06-27 ([PR #13](https://github.com/mytakedotorg/us-presidential-debates/pull/13))
   * Note, this event collided with our naming convention, so we prepended `2024` to the fact's title. Tracking this in [#14](https://github.com/mytakedotorg/us-presidential-debates/issues/14).
 
