@@ -14,8 +14,8 @@
   },
   "speakers": [
     {"fullName": "Dana Bash", "role": "Moderator"},
-    {"fullName": "Jake Tapper", "role": "Moderator"},
     {"fullName": "Donald J Trump", "role": "Republican nominee for President"},
+    {"fullName": "Jake Tapper", "role": "Moderator"},
     {"fullName": "Joe R Biden", "role": "Democratic nominee for President"}
   ]
 }
