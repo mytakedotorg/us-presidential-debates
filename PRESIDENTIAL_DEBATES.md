@@ -55,3 +55,4 @@ Note: We have not included any vice-presidential debates.  We intend to add them
 | Oct 22 | [YT: C-SPAN](https://www.youtube.com/watch?v=bPiofmZGb8o) | Behind a podium |
 |**2024**| Joe Biden v Donald Trump |             |  |
 | Jun 27 | [YT: CNN](https://www.youtube.com/watch?v=-v-8wJkmwBY) | Behind a podium |
+| Sep 10 | [YT: ABC](https://www.youtube.com/watch?v=4dOgWZsDB6Q) | Behind a podium |
